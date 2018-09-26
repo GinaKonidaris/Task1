@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\POE18013130\POE18013130\bin\Debug\POE18013130.exe.config
+C:\Users\User\source\repos\POE18013130\POE18013130\bin\Debug\POE18013130.exe
+C:\Users\User\source\repos\POE18013130\POE18013130\bin\Debug\POE18013130.pdb
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.Form1.resources
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.Properties.Resources.resources
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.exe
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.pdb
+C:\Users\User\source\repos\POE18013130\POE18013130\obj\Debug\POE18013130.csprojResolveAssemblyReference.cache
